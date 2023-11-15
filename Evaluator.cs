@@ -221,45 +221,24 @@ namespace Hulk
                     case TokenKind.EqualEqualToken:
                         try
                         {
-                            left = (double)left;
-                            try
-                            {
-                                right = (double)right;
-                                return left == right;
-                            }
-                            catch (InvalidCastException)
-                            {
-                                return "No se puede comparar tipos distintos";
-                            }
+                            return (double)left == (double)right;
                         }
                         catch (InvalidCastException)
                         {
                             try
                             {
-                                left = (bool)left;
-                                try
-                                {
-                                    right = (bool)right;
-                                    return left == right;
-                                }
-                                catch (InvalidCastException)
-                                {
-                                    return "no se pueden comparar tipos distintos";
-                                }
+                                return (bool)left == (bool)right;
                             }
                             catch (InvalidCastException)
                             {
-                                left = (string)left;
                                 try
                                 {
-                                    right = (string)right;
-                                    return left == right;
+                                    return (string)left == (string)right;
                                 }
                                 catch (InvalidCastException)
                                 {
-                                    return "no se pueden tipos distintos";
+                                    return "Solo puedes comprar tipos iguales";
                                 }
-
                             }
                         }
 
