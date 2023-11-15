@@ -1,5 +1,7 @@
 # HULK: Havana University Language for Kompilers
 
+Reynol Gomez Franco C112 + 1;
+
 En este proyecto usted implementará un intérprete del lenguaje de programación [HULK](https://matcom.in/hulk).
 
 Para completar el proyecto, usted debe implementar un subconjunto de HULK, que definiremos a continuación. 
