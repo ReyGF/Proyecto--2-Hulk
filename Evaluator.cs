@@ -237,7 +237,7 @@ namespace Hulk
                                 }
                                 catch (InvalidCastException)
                                 {
-                                    return "Solo puedes comprar tipos iguales";
+                                    return "Solo puedes comparar tipos iguales";
                                 }
                             }
                         }
@@ -256,7 +256,12 @@ namespace Hulk
                             }
                             catch (InvalidCastException)
                             {
-                                return (string)left != (string)right;
+                                try{
+                                    return (string)left != (string)right;
+                                }catch(InvalidCastException)
+                                {
+                                    return "Solo se puedes comparar tipos iguales";
+                                }
                             }
                         }
                     case TokenKind.LessThanToken:
