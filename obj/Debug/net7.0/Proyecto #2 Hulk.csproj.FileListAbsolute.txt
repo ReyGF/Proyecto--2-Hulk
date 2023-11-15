@@ -1,0 +1,15 @@
+C:\Users\Reynol\Desktop\Proyecto #2 Hulk\bin\Debug\net7.0\Proyecto #2 Hulk.exe
+C:\Users\Reynol\Desktop\Proyecto #2 Hulk\bin\Debug\net7.0\Proyecto #2 Hulk.deps.json
+C:\Users\Reynol\Desktop\Proyecto #2 Hulk\bin\Debug\net7.0\Proyecto #2 Hulk.runtimeconfig.json
+C:\Users\Reynol\Desktop\Proyecto #2 Hulk\bin\Debug\net7.0\Proyecto #2 Hulk.dll
+C:\Users\Reynol\Desktop\Proyecto #2 Hulk\bin\Debug\net7.0\Proyecto #2 Hulk.pdb
+C:\Users\Reynol\Desktop\Proyecto #2 Hulk\obj\Debug\net7.0\Proyecto #2 Hulk.csproj.AssemblyReference.cache
+C:\Users\Reynol\Desktop\Proyecto #2 Hulk\obj\Debug\net7.0\Proyecto #2 Hulk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reynol\Desktop\Proyecto #2 Hulk\obj\Debug\net7.0\Proyecto #2 Hulk.AssemblyInfoInputs.cache
+C:\Users\Reynol\Desktop\Proyecto #2 Hulk\obj\Debug\net7.0\Proyecto #2 Hulk.AssemblyInfo.cs
+C:\Users\Reynol\Desktop\Proyecto #2 Hulk\obj\Debug\net7.0\Proyecto #2 Hulk.csproj.CoreCompileInputs.cache
+C:\Users\Reynol\Desktop\Proyecto #2 Hulk\obj\Debug\net7.0\Proyecto #2 Hulk.dll
+C:\Users\Reynol\Desktop\Proyecto #2 Hulk\obj\Debug\net7.0\refint\Proyecto #2 Hulk.dll
+C:\Users\Reynol\Desktop\Proyecto #2 Hulk\obj\Debug\net7.0\Proyecto #2 Hulk.pdb
+C:\Users\Reynol\Desktop\Proyecto #2 Hulk\obj\Debug\net7.0\Proyecto #2 Hulk.genruntimeconfig.cache
+C:\Users\Reynol\Desktop\Proyecto #2 Hulk\obj\Debug\net7.0\ref\Proyecto #2 Hulk.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Proyecto #2 Hulk/1.0.0": {
+        "runtime": {
+          "Proyecto #2 Hulk.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Proyecto #2 Hulk/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
